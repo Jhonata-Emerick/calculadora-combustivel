@@ -1,0 +1,13 @@
+{
+  "name": "calculadora-combustivel",
+  "owner": {
+    "name": "Emerick Consultoria"
+  },
+  "plugins": [
+    {
+      "name": "calculadora-combustivel",
+      "source": "./",
+      "description": "Etanol ou gasolina? Compara os dois combustíveis com os preços do posto e o rendimento do veículo, calcula o custo por quilômetro e estima a economia por viagem ou por mês."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "calculadora-combustivel",
+  "version": "0.1.0",
+  "description": "Etanol ou gasolina? Compara os dois combustíveis com os preços do posto e o rendimento do veículo, calcula o custo por quilômetro e estima a economia por viagem ou por mês. Sem rendimentos, aplica a regra aproximada dos 70%.",
+  "author": {
+    "name": "Emerick Consultoria"
+  },
+  "homepage": "https://fuel-smart-math.base44.app",
+  "license": "MIT",
+  "keywords": ["combustivel", "etanol", "gasolina", "flex", "economia", "finance"]
+}
